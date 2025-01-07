@@ -1,7 +1,2 @@
-# CodigoARCADE
-INTEGRANTES GUSTAVO TEIXEIRA,
-CRISTHOPE ABELEM
-
-
-
-    OBJETIVO PRINCIPAL É FAZER O JOGO INTEIRO FUNCIONAR E ESTAR DENTRO DO CRITERIOS
+# ArcadeGame 
+This code was my second project on University,  basically "ArcadeProject" is a code made in C programming that contains several mini-games
